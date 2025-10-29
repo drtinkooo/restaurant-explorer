@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Restaurant AI Explorer",
+  "description": "An application that uses Gemini with Google Maps Grounding to collect detailed information about restaurants, including menus, reviews, and general information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
